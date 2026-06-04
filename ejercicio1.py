@@ -8,3 +8,6 @@ while True:
     else:
         print("Intente nuevamente")
         int(input("Ingrese un numero entero: "))
+print ("Soy Niico :p")
+print("Nuevo cambio") 
+print("Soy Joshua") 
